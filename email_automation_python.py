@@ -22,7 +22,7 @@ print(df)
 smtp_server = "smtp.gmail.com" #for gmail
 port = 465
 sender_email = "your_email3@gmail.com" #your email
-password = "" #or any password
+password = "" #for any password
 
 #send
 context = ssl.create_default_context()
