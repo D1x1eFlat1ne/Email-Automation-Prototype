@@ -21,7 +21,7 @@ print(df)
 #configuration
 smtp_server = "smtp.gmail.com" #for gmail
 port = 465
-sender_email = "your_email3@gmail.com" #your email
+sender_email = "your_email@gmail.com" #your email
 password = "" #for any password
 
 #send
